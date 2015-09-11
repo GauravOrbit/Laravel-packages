@@ -18,6 +18,13 @@ Laravel Useful packages, Those are require to enhance capability of application.
 ## Data Table integration and manage easily CRUD operation based on cleint and server side Utility of Grid and associated operations
    "yajra/laravel-datatables-oracle": "~5.0" (https://github.com/yajra/laravel-datatables)
 
+## Oauth based API Implementation and Integration packages
+    1> "lucadegasperi/oauth2-server-laravel": "5.0.*@dev" (https://github.com/lucadegasperi/oauth2-server-laravel)
+    
+    2> "dingo/api": "1.0.*@dev" (https://github.com/dingo/api)
+    
+    3> "tymon/jwt-auth": "0.5.*" (https://github.com/tymondesigns/jwt-auth)
+
 ##  Filemanager utilize to browse and manage files on server based on Editore as well as browser.
   "pqb/filemanager-laravel": "2.*" (https://github.com/guillermomartinez/filemanager-laravel)
   
@@ -26,9 +33,4 @@ Laravel Useful packages, Those are require to enhance capability of application.
   
 ## Laravel Log viewer. Nice package to view and brosw logs based on WebUrl.
   "arcanedev/log-viewer": "~3.0" (https://github.com/ARCANEDEV/LogViewer)
-  
-  
-
-  
-  
   
