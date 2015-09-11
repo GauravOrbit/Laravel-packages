@@ -1,5 +1,5 @@
 # Laravel-packages
-Laravel Useful packages, Those are require to enhance capability of application.
+Following are the Laravel Useful packages which require to enhance features and capability of application.
 
 ## Laravel latest stable frameowrk
   "laravel/framework": "5.1.*"   (https://github.com/laravel/laravel/tree/develop)
