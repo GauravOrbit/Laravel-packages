@@ -4,6 +4,9 @@ Following are the Laravel Useful packages which require to enhance features and 
 ## Laravel latest stable frameowrk
   "laravel/framework": "5.1.*"   (https://github.com/laravel/laravel/tree/develop)
   
+## Laravel 5 Boilerplate, A good bundle with Admin/Front end features along with ACL.
+  "rappasoft/laravel-5-boilerplate": "dev-master" (https://github.com/rappasoft/laravel-5-boilerplate)
+  
 ## Laravel Socialite package for scoial connectivity 
   "laravel/socialite": "^2.0" (https://github.com/laravel/socialite)
   
@@ -25,12 +28,12 @@ Following are the Laravel Useful packages which require to enhance features and 
     
     3> "tymon/jwt-auth": "0.5.*" (https://github.com/tymondesigns/jwt-auth)
 
-##  Filemanager utilize to browse and manage files on server based on Editore as well as browser.
+##  Filemanager utilize to browse and manage files on server based on Editor as well as browser.
   "pqb/filemanager-laravel": "2.*" (https://github.com/guillermomartinez/filemanager-laravel)
   
 ## Google Captcha Integration
   "greggilbert/recaptcha": "dev-master" (https://github.com/greggilbert/recaptcha)
   
-## Laravel Log viewer. Nice package to view and brosw logs based on WebUrl.
+## Laravel Log viewer. Nice package to view and browse logs based on WebUrl.
   "arcanedev/log-viewer": "~3.0" (https://github.com/ARCANEDEV/LogViewer)
   
