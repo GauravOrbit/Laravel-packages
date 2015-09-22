@@ -36,4 +36,7 @@ Following are the Laravel Useful packages which require to enhance features and 
   
 ## Laravel Log viewer. Nice package to view and browse logs based on WebUrl.
   "arcanedev/log-viewer": "~3.0" (https://github.com/ARCANEDEV/LogViewer)
+
+## Laravel AWs integration for push resources on AWS server.
+  "aws/aws-sdk-php-laravel": "~3.0" (https://github.com/aws/aws-sdk-php-laravel)
   
